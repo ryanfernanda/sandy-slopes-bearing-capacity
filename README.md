@@ -49,11 +49,12 @@ A total of 11 regression algorithms were implemented and evaluated without hyper
 ```
 /
 ├── data/
-│   └── foundation_slope_dataset.csv
-├── model/
-│   ├── EDA_and_Preprocessing.ipynb
-│   ├── Modeling_All_Algorithms.ipynb
-│   ├── Evaluation_Results.ipynb
+│   ├── Dataset_q.csv
+│   ├── clean_dataset.csv
+│   ├── test_data.csv
+│   └── train_data.csv
+├── notebook/
+│   └── Whole Analysis - Data Cleaning + Modeling + Evaluation.ipynb
 ├── LICENSE
 └── README.md
 ```
