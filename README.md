@@ -54,7 +54,7 @@ A total of 11 regression algorithms were implemented and evaluated without hyper
 │   ├── test_data.csv
 │   └── train_data.csv
 ├── notebook/
-│   └── Whole Analysis - Data Cleaning + Modeling + Evaluation.ipynb
+│   └── Regression Analysis - Q_ultimate.ipynb
 ├── LICENSE
 └── README.md
 ```
